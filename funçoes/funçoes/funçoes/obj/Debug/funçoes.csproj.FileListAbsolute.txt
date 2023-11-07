@@ -1,0 +1,10 @@
+C:\Users\guilherme.lmaia\source\repos\atividades\funçoes\funçoes\funçoes\bin\Debug\funçoes.exe.config
+C:\Users\guilherme.lmaia\source\repos\atividades\funçoes\funçoes\funçoes\bin\Debug\funçoes.exe
+C:\Users\guilherme.lmaia\source\repos\atividades\funçoes\funçoes\funçoes\bin\Debug\funçoes.pdb
+C:\Users\guilherme.lmaia\source\repos\atividades\funçoes\funçoes\funçoes\obj\Debug\funçoes.csproj.AssemblyReference.cache
+C:\Users\guilherme.lmaia\source\repos\atividades\funçoes\funçoes\funçoes\obj\Debug\funçoes.Form1.resources
+C:\Users\guilherme.lmaia\source\repos\atividades\funçoes\funçoes\funçoes\obj\Debug\funçoes.Properties.Resources.resources
+C:\Users\guilherme.lmaia\source\repos\atividades\funçoes\funçoes\funçoes\obj\Debug\funçoes.csproj.GenerateResource.cache
+C:\Users\guilherme.lmaia\source\repos\atividades\funçoes\funçoes\funçoes\obj\Debug\funçoes.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.lmaia\source\repos\atividades\funçoes\funçoes\funçoes\obj\Debug\funçoes.exe
+C:\Users\guilherme.lmaia\source\repos\atividades\funçoes\funçoes\funçoes\obj\Debug\funçoes.pdb
